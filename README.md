@@ -1,4 +1,4 @@
-# Mobile Programming Exam - Music Player
+# Mobile Programming Exam - Spectrum (Music player)
 
 React Native prototype for the mobile programming exam with multiple screens, bottom tab navigation, native stack navigation, shared data across screens, and accessibility-focused implementation.
 
