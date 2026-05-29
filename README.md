@@ -4,7 +4,7 @@ React Native prototype for the mobile programming exam with multiple screens, bo
 
 ## Figma design
 
-https://www.figma.com/design/1YiKZ3Vg68jOO69NVCqWEA/assignment1-music-player?node-id=0-1&t=0G0pedxNTMKgpQha-1
+https://www.figma.com/design/1YiKZ3Vg68jOO69NVCqWEA/programming-exam?node-id=0-1&t=XPazhkUXaHDIr6eJ-1
 
 ## Screens
 
@@ -19,7 +19,7 @@ https://www.figma.com/design/1YiKZ3Vg68jOO69NVCqWEA/assignment1-music-player?nod
 | App (tabs)         | Profile           | `ProfileScreen.js`              |
 | App (stack)        | Player            | `PlayerScreen.js`               |
 
-**8 screens total** — 3 onboarding + 5 main app (4 tabs + Player).
+**8 screens total** - 3 onboarding + 5 main app (4 tabs + Player).
 
 ## Onboarding flow
 
